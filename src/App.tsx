@@ -10,6 +10,7 @@ function App() {
           <img src={devLogo} className="logo" alt="Dev logo" />
         </a>       
         <h2>Welcome to kanhaiya-dev</h2>
+        <p>Click <a target='_blank' href="https://kanhaiya.dev">kanhaiya.dev</a></p>
         <h4>Congratulations on our new site</h4>
         <h6>Site will be ready soon—please check back later.</h6>
       </div>            
